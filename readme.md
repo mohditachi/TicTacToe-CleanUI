@@ -37,7 +37,7 @@ A clean, minimalist, and futuristic version of the classic Tic Tac Toe game — 
 ## Screenshots
 
 ### Game Start Menu
-![Start Menu]((https://github.com/mohditachi/TicTacToe-CleanUI/blob/main/tictactoe1.png))
+![Start Menu](https://github.com/mohditachi/TicTacToe-CleanUI/blob/main/tictactoe1.png)
 
 ### Tie Screen Example
 ![Tie Screenshot](https://github.com/mohditachi/TicTacToe-CleanUI/blob/main/tictactoe2.png)
