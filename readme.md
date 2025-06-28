@@ -33,6 +33,16 @@ A clean, minimalist, and futuristic version of the classic Tic Tac Toe game — 
 - 🌐 Add online multiplayer
 - 🎨 UI themes toggle
 
+
+## Screenshots
+
+### Game Start Menu
+![Start Menu]((https://github.com/mohditachi/TicTacToe-CleanUI/blob/main/tictactoe1.png))
+
+### Tie Screen Example
+![Tie Screenshot](https://github.com/mohditachi/TicTacToe-CleanUI/blob/main/tictactoe2.png)
+
+
 ---
 
 ### 👨‍💻 Made with 💙 by [mohditachi](https://github.com/mohditachi)
